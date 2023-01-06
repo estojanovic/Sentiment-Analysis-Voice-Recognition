@@ -1,13 +1,4 @@
 file,text
-/audio/female1.wav,analyze sentiment of
-/audio/female2.wav,analyze sentiment of
-/audio/female4.wav,analyze sentiment of
-/audio/female5.wav,analyze sentiment of
-/audio/female7.wav,analyze sentiment of
-/audio/female8.wav,analyze sentiment of
-/audio/female9.wav,analyze sentiment of
-/audio/male1.wav,analyze sentiment of
-/audio/male2.wav,analyze sentiment of
 /audio/sentence1.wav,analyze sentiment of today is a good day
 /audio/sentence2.wav,analyze sentiment of I am sad
 /audio/sentence3.wav,analyze sentiment of I am funny
