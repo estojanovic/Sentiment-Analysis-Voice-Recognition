@@ -17,4 +17,4 @@ file,text
 /audiof/command16.wav,analyze sentiment of I feel amazing
 /audiof/command17.wav,analyze sentiment of I feel happy
 /audiof/command18.wav,analyze sentiment of I feel horrible
-/audiof/command19.wav,"analyze sentiment of I feel happy,amazing, horrible"
+/audiof/command19.wav,"analyze sentiment of I feel happy, amazing, horrible"
